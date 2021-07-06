@@ -1,5 +1,7 @@
 package Practicals.Pr_2;
 
+/* Write a program in Java to generate first n prime numbers. */
+
 public class Practical_2 {
     public static void main(String[] args)
     {

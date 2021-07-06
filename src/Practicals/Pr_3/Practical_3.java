@@ -1,4 +1,5 @@
 package Practicals.Pr_3;
+/* Write a program in Java to find maximum of three numbers using 1 conditional operator */
 
 import java.util.Scanner;
 

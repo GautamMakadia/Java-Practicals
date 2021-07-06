@@ -1,5 +1,7 @@
 package Practicals.Pr_4;
 
+/* Write a program in Java to find second maximum of n numbers 2 without using arrays */
+
 import java.util.Scanner;
 
 public class Practical_4 {
